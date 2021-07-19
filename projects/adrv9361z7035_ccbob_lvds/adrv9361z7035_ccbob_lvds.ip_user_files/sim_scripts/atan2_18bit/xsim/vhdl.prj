@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../../../library/akcore/v0303/drfm_hdl/coregen/atan2_18bit/sim/atan2_18bit.vhd" \
+
+nosort

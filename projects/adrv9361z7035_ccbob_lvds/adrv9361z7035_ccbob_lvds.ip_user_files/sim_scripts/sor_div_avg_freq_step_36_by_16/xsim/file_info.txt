@@ -1,0 +1,2 @@
+sor_div_avg_freq_step_36_by_16.vhd,vhdl,xil_defaultlib,../../../../../../library/akcore/v0303/sor_hdl/coregen/sor_div_avg_freq_step_36_by_16/sim/sor_div_avg_freq_step_36_by_16.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

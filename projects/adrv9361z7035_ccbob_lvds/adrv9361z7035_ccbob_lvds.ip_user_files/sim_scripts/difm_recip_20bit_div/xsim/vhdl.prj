@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../../../library/akcore/v0303/drfm_hdl/coregen/difm_recip_20bit_div/sim/difm_recip_20bit_div.vhd" \
+
+nosort

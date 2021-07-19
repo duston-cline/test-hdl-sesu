@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../../../library/akcore/v0303/drfm_hdl/coregen/div_24bit_with_remainder/sim/div_24bit_with_remainder.vhd" \
+
+nosort

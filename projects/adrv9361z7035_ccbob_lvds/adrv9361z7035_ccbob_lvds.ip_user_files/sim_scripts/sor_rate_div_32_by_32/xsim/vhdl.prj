@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../../../library/akcore/v0303/sor_hdl/coregen/sor_rate_div_32_by_32/sim/sor_rate_div_32_by_32.vhd" \
+
+nosort

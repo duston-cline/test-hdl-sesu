@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xil_defaultlib -L xpm -L fifo_generator_v13_2_4 -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.input_PDW_buffer_w_freq xil_defaultlib.glbl -o input_PDW_buffer_w_freq_opt

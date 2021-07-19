@@ -1,0 +1,15 @@
+# Blacklist everything at top-level
+/*
+
+# whitelist the .gitignore's, .gitmodule's, and READMEs
+!.gitattributes
+!.gitignore
+!.gitmodules
+!README
+
+# keep expected folders and files
+!/hdl_repo
+!/third_party_ip
+
+# Make sure all temp files are blacklisted
+/**/~*

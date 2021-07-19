@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../../../library/akcore/v0303/drfm_hdl/coregen/cfar_recip_u32_by_u16/sim/cfar_recip_u32_by_u16.vhd" \
+
+nosort

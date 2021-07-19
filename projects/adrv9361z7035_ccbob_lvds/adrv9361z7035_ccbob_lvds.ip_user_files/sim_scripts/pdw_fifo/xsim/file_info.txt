@@ -1,0 +1,2 @@
+pdw_fifo.v,verilog,xil_defaultlib,../../../../../../library/akcore/v0303/drfm_hdl/coregen/pdw_fifo/sim/pdw_fifo.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

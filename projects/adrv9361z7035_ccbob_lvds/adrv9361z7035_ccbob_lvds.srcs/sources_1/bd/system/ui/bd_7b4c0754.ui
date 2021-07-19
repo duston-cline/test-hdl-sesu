@@ -1,0 +1,62 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port S_AXI -pg 1 -lvl 0 -x -10 -y 50 -defaultsOSRD
+preplace port S_AXI1 -pg 1 -lvl 0 -x -10 -y 310 -defaultsOSRD
+preplace port S_AXI2 -pg 1 -lvl 0 -x -10 -y 490 -defaultsOSRD
+preplace port S_AXI_ACLK -pg 1 -lvl 0 -x -10 -y 510 -defaultsOSRD
+preplace port S_AXI_ARESETN -pg 1 -lvl 0 -x -10 -y 350 -defaultsOSRD
+preplace port S_AXI_ARESETN1 -pg 1 -lvl 0 -x -10 -y 530 -defaultsOSRD
+preplace port ad9361clk -pg 1 -lvl 0 -x -10 -y 370 -defaultsOSRD
+preplace port ad9361clk_rst -pg 1 -lvl 0 -x -10 -y 390 -defaultsOSRD
+preplace port adc_blank -pg 1 -lvl 0 -x -10 -y 690 -defaultsOSRD
+preplace port adc_valid -pg 1 -lvl 0 -x -10 -y 210 -defaultsOSRD
+preplace port dac_valid -pg 1 -lvl 0 -x -10 -y 250 -defaultsOSRD
+preplace port gps_1pps -pg 1 -lvl 0 -x -10 -y 730 -defaultsOSRD
+preplace port new_cmd -pg 1 -lvl 3 -x 850 -y 430 -defaultsOSRD
+preplace port ppin_0 -pg 1 -lvl 3 -x 850 -y 390 -defaultsOSRD
+preplace port ppout_0 -pg 1 -lvl 3 -x 850 -y 410 -defaultsOSRD
+preplace port sigclk -pg 1 -lvl 0 -x -10 -y 550 -defaultsOSRD
+preplace port sigclk_nrst -pg 1 -lvl 0 -x -10 -y 750 -defaultsOSRD
+preplace port sys_cpu_clk_out -pg 1 -lvl 0 -x -10 -y 330 -defaultsOSRD
+preplace portBus adc_I -pg 1 -lvl 0 -x -10 -y 650 -defaultsOSRD
+preplace portBus adc_Q -pg 1 -lvl 0 -x -10 -y 670 -defaultsOSRD
+preplace portBus dac_I -pg 1 -lvl 3 -x 850 -y 350 -defaultsOSRD
+preplace portBus dac_Q -pg 1 -lvl 3 -x 850 -y 370 -defaultsOSRD
+preplace portBus ext_ppin_vec -pg 1 -lvl 0 -x -10 -y 710 -defaultsOSRD
+preplace inst axi_ak_pdw_0 -pg 1 -lvl 1 -x 210 -y 530 -defaultsOSRD
+preplace inst axi_ak_config_rom_0 -pg 1 -lvl 2 -x 640 -y 70 -defaultsOSRD
+preplace inst axi_ak_ctrl_0 -pg 1 -lvl 2 -x 640 -y 390 -defaultsOSRD
+preplace netloc ad9361clk_1 1 0 2 NJ 370 NJ
+preplace netloc ad9361clk_rst_1 1 0 2 NJ 390 NJ
+preplace netloc adc_I_1 1 0 2 40J 670 380J
+preplace netloc adc_Q_1 1 0 2 10J 680 390J
+preplace netloc adc_blank_1 1 0 2 NJ 690 440J
+preplace netloc adc_valid_1 1 0 2 NJ 210 NJ
+preplace netloc axi_ak_ctrl_0_dac_I 1 2 1 NJ 350
+preplace netloc axi_ak_ctrl_0_dac_Q 1 2 1 NJ 370
+preplace netloc axi_ak_ctrl_0_new_cmd 1 2 1 NJ 430
+preplace netloc axi_ak_ctrl_0_pdw_data 1 0 2 30 290 NJ
+preplace netloc axi_ak_ctrl_0_pdw_level 1 0 3 50 720 NJ 720 820
+preplace netloc axi_ak_ctrl_0_ppin 1 2 1 NJ 390
+preplace netloc axi_ak_ctrl_0_ppout 1 2 1 NJ 410
+preplace netloc axi_ak_pdw_0_pdw_ctrl 1 1 1 420 510n
+preplace netloc axi_ak_pdw_0_pdw_ren 1 1 1 400 550n
+preplace netloc dac_valid_1 1 0 2 NJ 250 NJ
+preplace netloc ext_ppin_vec_1 1 0 2 20J 730 450J
+preplace netloc gps_1pps_1 1 0 2 10J 740 460J
+preplace netloc sigclk_nrst_1 1 0 2 NJ 750 430J
+preplace netloc sys_cpu_clk 1 0 2 NJ 330 370
+preplace netloc sys_cpu_resetn 1 0 2 NJ 350 460
+preplace netloc sys_ps7_FCLK_CLK2 1 0 2 30 710 410J
+preplace netloc util_ad9361_divclk_clk_out 1 0 2 20 700 370
+preplace netloc S_AXI_ARESETN1_1 1 0 1 NJ 530
+preplace netloc axi_cpu_interconnect_M11_AXI 1 0 2 NJ 50 NJ
+preplace netloc sys_ps7_axi_periph_M00_AXI 1 0 1 NJ 490
+preplace netloc Conn1 1 0 2 NJ 310 NJ
+levelinfo -pg 1 -10 210 640 850
+pagesize -pg 1 -db -bbox -sgen -190 -10 980 780
+"
+}
+

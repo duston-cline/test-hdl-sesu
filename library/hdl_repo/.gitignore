@@ -1,0 +1,23 @@
+# Blacklist everything at top-level
+/*
+
+# whitelist the .gitignore's, .gitmodule's, and READMEs
+!.gitattributes
+!.gitignore
+!.gitmodules
+!README
+
+# keep expected folders and files
+#!/adc_phys
+#!/axi_sfpdp
+#!/cfars
+#!/memories
+#!/regfiles
+#!/shifters
+#!/signal_synthesis
+#!/starter_files
+#!/synchronizers
+#!/utilities
+
+# Make sure all temp files are blacklisted
+/**/~*

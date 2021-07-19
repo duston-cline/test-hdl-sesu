@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../../library/akcore/v0303/sor_hdl/coregen/cmd_bus_fifo/sim/cmd_bus_fifo.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

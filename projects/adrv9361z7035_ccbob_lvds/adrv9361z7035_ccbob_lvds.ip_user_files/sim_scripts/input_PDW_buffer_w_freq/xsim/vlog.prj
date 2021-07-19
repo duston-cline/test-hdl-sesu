@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../../library/akcore/v0303/drfm_hdl/coregen/input_PDW_buffer_w_freq/sim/input_PDW_buffer_w_freq.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
